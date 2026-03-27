@@ -1,12 +1,3 @@
-# GDG-CUI-Wah---Data-Science-Bootcamp
-Can we predict a student's final grade before the exam? I explored this using the Student's dataset to build a complete ML pipeline. From cleaning "noisy" data to engineering features like Total_Academic. This repo shows my end-to-end process of building a Linear Regression model that prioritizes accuracy and interpretability.
-
-This is a great idea! A well-structured README makes your project look professional and helps others (or your future self) understand exactly what you achieved.
-
-Since we’ve gone through the whole journey—from fixing `UnicodeDecodeError` to building a predictive model—here is a polished README template you can use.
-
-***
-
 # 🎓 Student Performance Prediction 📈
 
 ## 📌 Project Overview
